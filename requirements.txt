@@ -1,5 +1,5 @@
 streamlit
 openai-whisper
 torch
-torchaudio
-moviepy
+librosa
+soundfile
